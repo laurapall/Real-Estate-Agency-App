@@ -1,5 +1,8 @@
 # Oracle Apex Project - Real Estate Agency Application
 
+## Language
+The project is implemented using Oracle Application Express (APEX).
+
 ## Project Description:
 
 The "Agentie imobiliara" project is a web-based application developed using Oracle Application Express (APEX). It serves as a Real Estate Agency management system, allowing users to manage property information, agents, transactions, and generate various reports and charts related to the agency's activities.
