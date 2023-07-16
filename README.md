@@ -1,7 +1,4 @@
-# Real-Estate-Agency-App
-Real Estate Agency Management Application for property and agent data tracking and reporting developed using Oracle Application Express (APEX).
 # Oracle Apex Project - Real Estate Agency Application
-## Readme File
 
 ## Project Description:
 
@@ -96,4 +93,15 @@ Once the application is set up and running, users can perform the following task
 
 - Regularly back up the application and database to prevent data loss and facilitate recovery if needed.
 
-**Thank you for using the "Agentie imobiliara" application! Should you have any further questions or encounter any issues, please feel free to reach out for assistance.**
+## License
+
+The "Agentie imobiliara" project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+<br><br>
+
+**Thank you for using the "Agentie imobiliara" application! Should you have any further questions or encounter any issues, please feel free to reach out for assistance: [flaurapall@gmail.com].**
+
+## Author
+
+* [Pall Laura](https://github.com/laurapall)
+
