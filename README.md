@@ -13,6 +13,13 @@ The "Agentie imobiliara" project is a web-based application developed using Orac
      - Adding property details with a procedure (stored in the database).
      - Adding new "agent" records to manage agency staff.
 
+<br><br>
+
+<img width="2048" alt="Screenshot 2023-07-16 at 18 57 49" src="https://github.com/laurapall/Real-Estate-Agency-App/assets/48211193/a46a32de-843e-41c9-a0f4-cc0e01e3a055">
+
+<br><br>
+     
+
 2. **Modificarea datelor (Data Modification):**
    - This page allows users to modify existing data, including:
      - Updating "judet" and "localitate" information.
@@ -20,11 +27,23 @@ The "Agentie imobiliara" project is a web-based application developed using Orac
      - Modifying agent details (agent).
      - Changing property types (tip imobil).
      - Associating agents with properties (imobil).
+    
+<br><br>
+
+<img width="2048" alt="Screenshot 2023-07-16 at 18 58 09" src="https://github.com/laurapall/Real-Estate-Agency-App/assets/48211193/c02b81f0-086a-4599-9554-3af120f1e044">
+  
+<br><br>
 
 3. **Informatii (Information):**
    - Master Detail page - stacked, side by side, drill down.
    - This page provides detailed information in a master-detail format.
    - Users can view data such as properties (imobil), agents, and transactions (tranzactii).
+  
+  <br><br>
+  
+<img width="2048" alt="Screenshot 2023-07-16 at 18 58 27" src="https://github.com/laurapall/Real-Estate-Agency-App/assets/48211193/ca0bf385-dac0-4424-b294-e9329c4804d1">
+
+   <br><br>
 
 4. **Rapoarte (Reports):**
    - This page offers various reports to assist in decision making, including:
@@ -32,6 +51,12 @@ The "Agentie imobiliara" project is a web-based application developed using Orac
      - A list of agents (agentilor).
      - Transaction details based on selected properties (selectare imobil).
      - A chart representing agent performance based on sales.
+    
+         <br><br>
+         
+<img width="2048" alt="Screenshot 2023-07-16 at 18 59 02" src="https://github.com/laurapall/Real-Estate-Agency-App/assets/48211193/2898d33d-59e8-47e2-b66f-3b1b44c9a191">
+
+       <br><br>
 
 ## Database Tables:
 
@@ -60,7 +85,13 @@ The application relies on the following database tables:
 
 8. **P_judet:**
    - Columns: cod_judet, judet.
+ 
+  <br><br>
+  
+<img width="2048" alt="Screenshot 2023-01-28 at 08 17 27" src="https://github.com/laurapall/Real-Estate-Agency-App/assets/48211193/719419fd-6d26-438a-90e6-acc97408be10">
 
+  <br><br>
+  
 ## Application Setup:
 
 To set up the application in Oracle APEX, follow these steps:
